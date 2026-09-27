@@ -1,0 +1,15 @@
+{
+  "name": "@expatslistorg/courierpr",
+  "version": "1.0.0",
+  "description": "Claude skill: how to use CourierPR, press release distribution optimized for SEO and AEO.",
+  "homepage": "https://courierpr.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExpatslistORG/courierpr.com"
+  },
+  "files": ["SKILL.md", "README.md"],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
